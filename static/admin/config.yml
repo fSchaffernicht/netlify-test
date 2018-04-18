@@ -1,5 +1,6 @@
 backend:
   name: test-repo
+  repo: fSchaffernicht/netlify-test
 
 media_folder: static/assets
 
